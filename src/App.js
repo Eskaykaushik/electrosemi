@@ -1,7 +1,7 @@
 import './App.css';
 import Product from './Component/Product';
 import Navbar from './Component/Navbar';
-import Img from './Component/Img';
+import Img from './Component/BackGround';
 import {
   BrowserRouter,
   Route,
