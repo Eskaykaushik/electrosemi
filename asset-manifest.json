@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/electrosemi/static/css/main.07a9f241.css",
+    "main.js": "/electrosemi/static/js/main.a4a2c7bc.js",
+    "static/js/787.ceba7239.chunk.js": "/electrosemi/static/js/787.ceba7239.chunk.js",
+    "static/media/BackGround.jpg": "/electrosemi/static/media/BackGround.ffa2068f849536264276.jpg",
+    "index.html": "/electrosemi/index.html",
+    "main.07a9f241.css.map": "/electrosemi/static/css/main.07a9f241.css.map",
+    "main.a4a2c7bc.js.map": "/electrosemi/static/js/main.a4a2c7bc.js.map",
+    "787.ceba7239.chunk.js.map": "/electrosemi/static/js/787.ceba7239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07a9f241.css",
+    "static/js/main.a4a2c7bc.js"
+  ]
+}
